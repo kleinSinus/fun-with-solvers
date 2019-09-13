@@ -1,5 +1,5 @@
 # Fun With Solvers
-Starting with a Sudoku solver I try to implement solvers for commonly known riddles
+Starting with a Sudoku solver I try to implement solvers for commonly known riddles. Since I pretty much like clicky-shiny-fancy stuff all this shall be hosted in some UI.
 
 ## Solvers I plan on including here
 - Sudoku
