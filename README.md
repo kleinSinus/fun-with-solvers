@@ -14,7 +14,7 @@ Starting with a Sudoku solver I try to implement solvers for commonly known ridd
 ### Status:
 
 - [x] Initialized the repository
-- [ ] Chose programming language
+- [x] Chose programming language
 - [ ] Implemented Solvers:
   - [ ] Sudoku
   - [ ] Kakuro
